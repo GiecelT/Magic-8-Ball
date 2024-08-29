@@ -1,0 +1,12 @@
+body {
+  background: radial-gradient(circle at center, #1a1a2e, #16213e, #0f3460, #1b1b2f);
+    color: #ffffff; 
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
